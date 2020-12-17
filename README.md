@@ -1,0 +1,1 @@
+# It was a regression project which basically tells us the estimated price of a real estate, particularly in Bangalore. The dataset was taken from Kaggle. In this project, data cleaning was the major part. It outputs the price of real estate with an accuracy of almost 84%.
